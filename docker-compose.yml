@@ -37,8 +37,8 @@ services:
         target: /usr/share/logstash/config/logstash.yml
         read_only: true
       - type: bind
-        source: ./logstash/pipeline
-        target: /usr/share/logstash/pipeline
+        source: ./logstash
+        target: /usr/share/logstash
         read_only: true
     ports:
       - "5044:5044"
