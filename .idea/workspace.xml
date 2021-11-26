@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c19187f8-c94a-4d75-80c8-31aae8b224cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kibana/config/kibana.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kibana/config/kibana.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" beforeDir="false" afterPath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
