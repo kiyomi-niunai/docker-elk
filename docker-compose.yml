@@ -46,7 +46,7 @@ services:
       - "5001:5001/udp"
       - "9600:9600"
     environment:
-      LS_JAVA_OPTS: "-Xmx256m -Xms256m"
+      LS_JAVA_OPTS: "-Xmx4096m -Xms4096m"
     networks:
       - elk
     depends_on:
