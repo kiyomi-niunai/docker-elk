@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c19187f8-c94a-4d75-80c8-31aae8b224cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" beforeDir="false" afterPath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/logstash/template" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -49,7 +50,7 @@
       <updated>1637831799399</updated>
       <workItem from="1637831801771" duration="6538000" />
       <workItem from="1637898145736" duration="18000" />
-      <workItem from="1637898183293" duration="3009000" />
+      <workItem from="1637898183293" duration="4204000" />
     </task>
     <servers />
   </component>
