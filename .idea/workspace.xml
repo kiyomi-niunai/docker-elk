@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c19187f8-c94a-4d75-80c8-31aae8b224cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/elasticsearch/config/elasticsearch.yml" beforeDir="false" afterPath="$PROJECT_DIR$/elasticsearch/config/elasticsearch.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <workItem from="1637898145736" duration="18000" />
       <workItem from="1637898183293" duration="11478000" />
       <workItem from="1637933756202" duration="69000" />
-      <workItem from="1638177242937" duration="1337000" />
+      <workItem from="1638177242937" duration="1600000" />
     </task>
     <servers />
   </component>
