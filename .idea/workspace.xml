@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c19187f8-c94a-4d75-80c8-31aae8b224cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elasticsearch/config/elasticsearch.yml" beforeDir="false" afterPath="$PROJECT_DIR$/elasticsearch/config/elasticsearch.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" beforeDir="false" afterPath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       <workItem from="1640076999810" duration="2420000" />
       <workItem from="1640086558629" duration="2141000" />
       <workItem from="1640670593263" duration="2449000" />
-      <workItem from="1640684644549" duration="36000" />
+      <workItem from="1640684644549" duration="413000" />
     </task>
     <servers />
   </component>
