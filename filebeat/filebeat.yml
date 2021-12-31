@@ -1,0 +1,30 @@
+filebeat.inputs:
+  - type: log
+    enable: true
+    paths:
+      - /var/log/xapi/access-log*.log
+    fields:
+      log_type: 'access-log-x-api'
+    scan_frequency: 10s
+
+#    tail_files: false
+#    ignore_older: 60m
+#    close_inactive: 10m
+#    close_renamed: true
+#    close_removed: true
+#    clean_inactive: 70m
+#    clean_removed: true
+#    json.keys_under_root: true
+#    json.overwrite_keys: true
+
+processors:
+  - add_cloud_metadata: ~
+  - add_docker_metadata: ~
+
+output:
+  logstash:
+    hosts: ["dev2.batata.love:5044"]
+#output.file:
+#  path: "/tmp"
+#  filename: "filebeat.log"
+
