@@ -23,7 +23,7 @@ processors:
 
 output:
   logstash:
-    hosts: ["dev2.batata.love:5044"]
+    hosts: ["elk-dev.batata.love:5044"]
 #output.file:
 #  path: "/tmp"
 #  filename: "filebeat.log"

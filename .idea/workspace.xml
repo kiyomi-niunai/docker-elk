@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c19187f8-c94a-4d75-80c8-31aae8b224cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" beforeDir="false" afterPath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filebeat/filebeat.yml" beforeDir="false" afterPath="$PROJECT_DIR$/filebeat/filebeat.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,11 @@
       <workItem from="1640930478330" duration="757000" />
       <workItem from="1640932844439" duration="81000" />
       <workItem from="1640933324027" duration="606000" />
-      <workItem from="1641294390589" duration="49000" />
+      <workItem from="1641294390589" duration="989000" />
+      <workItem from="1641558306867" duration="654000" />
+      <workItem from="1642502945187" duration="716000" />
+      <workItem from="1642557839119" duration="1990000" />
+      <workItem from="1643089256023" duration="21000" />
     </task>
     <servers />
   </component>
